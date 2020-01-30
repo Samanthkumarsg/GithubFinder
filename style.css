@@ -193,6 +193,27 @@ section p{
     cursor: pointer;
 }
 
+footer{
+    background: var(--primary);
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer h6{
+    color:#fff;
+    font: 1em var(--font-family);
+}
+
+footer a{
+    text-decoration: none;
+    color: var(--third-color);
+    font: 1.2em var(--font-family);
+}
+
+
 
 /* Responsive */
 
