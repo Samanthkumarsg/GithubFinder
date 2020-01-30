@@ -124,7 +124,7 @@ section p{
 }
 
 #repositories{
-    min-height: 20vh;
+    min-height: 30vh;
     width:90%;
     background: #fff;
     display: flex;
@@ -221,6 +221,7 @@ section p{
     .display{
         width: 100%;
     }
+
 
     section{
         background: #fff;
