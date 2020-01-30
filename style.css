@@ -11,7 +11,7 @@ body{
     margin: 0;
     background: #fafafa;
     font-family: var(--font-family);
-    overflow: hidden;
+    
 }
 
 header{
@@ -66,6 +66,7 @@ nav{
 
 .display{
     background: var(--secondary);
+    min-height: 30vh;
     width: 90%;
     min-height: 50vh;
     margin: 0 auto;
