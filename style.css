@@ -251,6 +251,10 @@ footer a{
         width: 100%;
     }
 
+    #repositories{
+        width:100%;
+    }
+
     #repositories ul{
         display: flex;
         align-items: center;
