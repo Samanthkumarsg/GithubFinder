@@ -15,7 +15,7 @@ body{
 }
 
 header{
-    height: 80px;
+    height: 5em;
     width: 100%;
     background: var(--primary);
     display: flex;
@@ -45,7 +45,7 @@ header{
 #search{
     min-width: 25%;
     padding: 8px 32px;
-    border-radius: 2px;
+    border-radius: 4px;
     outline: none;
     border: none;
     display: flex;
@@ -63,6 +63,11 @@ nav{
     align-items: center;
 }
 
+.container{
+    min-height: 70vh;
+    width: 100%;
+    text-align: center;
+}
 
 .display{
     background: var(--secondary);
@@ -220,16 +225,17 @@ footer a{
 @media only screen and (max-width: 601px) {
 
     header{
-        height:100px;
+        margin:0;
+        height:10em;
         display: flex;
-        justify-content: space-around;
+        justify-content: center;
         align-items: center;
         flex-direction: column;
     }
 
     #search{
         min-width: 40%;
-        margin: 0;
+        margin: .8em 0em 0em 0em;
     }
 
     .logo{
