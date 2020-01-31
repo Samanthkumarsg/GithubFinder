@@ -260,6 +260,9 @@ footer a{
         min-height: 30vh;
     }
 
+    #repositories ul > li {
+        margin: 8px;
+    }
 
     section{
         background: #fff;
