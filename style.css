@@ -152,6 +152,7 @@ section p{
 #repositories ul > li{
     list-style: none;
     height: 32px;
+    margin:8px;
     background-color: var(--primary);
     padding: 2px 24px;
     color: #fff;
