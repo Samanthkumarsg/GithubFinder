@@ -3,4 +3,4 @@ GithubFinder is an web app that allows us to find the Github user details in bet
 
 its live! you can check here:
 
-samgithub.netlify.com
+https://samgithub.netlify.com
